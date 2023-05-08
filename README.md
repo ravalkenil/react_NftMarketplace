@@ -68,3 +68,37 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+// "@emailjs/browser": "^3.10.0",
+    // "@material-ui/core": "^4.12.4",
+    // "@material-ui/lab": "^4.0.0-alpha.61",
+    // "@rainbow-me/rainbowkit": "^0.4.2",
+    // "@testing-library/jest-dom": "^5.15.0",
+    // "@testing-library/react": "^11.2.7",
+    // "@testing-library/user-event": "^12.8.3",
+    // "axios": "^1.3.3",
+    // "blockstore": "^0.1.7",
+    // "bootstrap": "^5.1.3",
+    // "chart.js": "^3.5.1",
+    // "ethers": "^5.7.2",
+    // "ipfs-http-client": "^60.0.0",
+    // "memory": "^0.0.3",
+    // "mongodb": "^4.14.0",
+    // "multiformats": "^8.0.6",
+    // "nft.storage": "^5.1.3",
+    // "react": "^18.2.0",
+    // "react-alice-carousel": "^2.7.0",
+    // "react-chartjs-2": "^3.0.4",
+    // "react-dom": "^18.2.0",
+    // "react-hook-form": "^7.43.7",
+    // "react-router-dom": "^6.2.1",
+    // "react-scripts": "^4.0.3",
+    // "react-three-fiber": "^6.0.13",
+    // "reactstrap": "^9.0.1",
+    // "remixicon": "^2.5.0",
+    // "three": "^0.150.1",
+    // "util": "^0.12.5",
+    // "wagmi": "^0.5.9",
+    // "web-vitals": "^1.1.2",
+    // "web3": "^1.9.0"
